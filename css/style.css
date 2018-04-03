@@ -1,0 +1,69 @@
+/* color #009EEB
+         #1FB6FF
+         #85D7FF
+Fonts   ComicRelief
+        font-family: 'Montserrat', sans-serif;
+icons    <i class="fab fa-twitter"></i>
+        <i class="fas fa-link"></i>
+        <i class="fas fa-desktop"></i>
+
+
+*/
+
+body {
+    padding-top: 50px;
+}
+
+.bio {
+    background-color: #347B98;
+    text-align: center;
+    font-family: ComicRelief;
+    border-bottom: 2px solid #110934;
+    
+    
+}
+.intro {
+    color: #110934;
+    
+}
+
+.about_me {
+    font-family: 'Montserrat', sans-serif;
+    color: #4424D6
+}
+
+.portfolio {
+    background-color: #D4EDF7;
+    text-align: center;
+   
+    
+}
+.portfolio_title {
+    color: #0247FE;
+}
+.horcruxes {
+    display: block;
+    margin: auto;
+    border-width: 5px;
+    border-style: double;
+}
+.harry_link {
+    color: #4424D6;
+        
+}
+.harry_link a {
+    position: relative;
+}
+.harry_link a span {
+    position: absolute;
+    display: none;
+    z-index: 99;
+}
+.harry_link a:hover span {
+    display: block;
+    border: 1px solid black;
+}
+.contact_me {
+    background-color: #110934;
+    border-top: 2px solid #347B98;
+}
