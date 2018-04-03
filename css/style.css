@@ -62,7 +62,19 @@ body {
 .harry_link a:hover span {
     display: block;
     border: 1px solid black;
+    }
+.x-files_link a {
+    position: relative;
 }
+.x-files_link a span {
+    position: absolute;
+    display: none;
+    z-index: 99;
+}
+.x-files_link a:hover span {
+    display: block;
+    border: 1px solid black;
+    }
 .contact_me {
     background-color: #110934;
     border-top: 2px solid #347B98;
