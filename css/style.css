@@ -88,6 +88,12 @@ nav navbar-nav a:hover:not(.active) {
     display: block;
     border: 1px solid black;
     }
+.x-files {
+    display: block;
+    margin: auto;
+    border-width: 5px;
+    border-style: double;
+}
 .x-files_link a {
     position: relative;
 }
