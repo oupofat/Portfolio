@@ -14,17 +14,6 @@ body {
     padding-top: 50px;
 }
 
-/* nav bar css */
-/*
-.affix {
-      top: 0;
-      width: 100%;
-      z-index: 9999 !important;
-  }
-
-.affix {
-      padding-top: 70px;
-  }*/
 /* bio info will go here*/
 .bio {
     background-color: #347B98;
@@ -96,4 +85,6 @@ body {
 .contact_me {
     background-color: #110934;
     border-top: 2px solid #347B98;
+    text-align: center;
+    color: #347B98;
 }
