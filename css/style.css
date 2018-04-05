@@ -9,7 +9,7 @@ icons    <i class="fab fa-twitter"></i>
 
 
 */
-
+/* this the body of the portfolio page */
 body {
     padding-top: 50px;
 }
@@ -23,16 +23,17 @@ body {
     
     
 }
+/*introduction */
 .intro {
     color: #110934;
     
 }
-
+/* about me */
 .about_me {
     font-family: 'Montserrat', sans-serif;
     color: #D4EDF7;
 }
-
+/* links to apps and webpages */
 .portfolio {
     background-color: #D4EDF7;
     text-align: center;
@@ -82,6 +83,7 @@ body {
     display: block;
     border: 1px solid black;
     }
+/* the contact me part of the page */
 .contact_me {
     background-color: #110934;
     border-top: 2px solid #347B98;
